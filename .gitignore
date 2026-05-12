@@ -1,2 +1,7 @@
 Datasets/
 Datasets_limpios/
+
+__pycache__/
+*.pyc
+.DS_Store
+
