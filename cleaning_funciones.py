@@ -52,7 +52,7 @@ def datetime_conversion(df, column):
     return df
 
 
-# Sort user journeys chronologically
+# Sort user process step
 def sort_data(df):
     
     df = df.sort_values(
